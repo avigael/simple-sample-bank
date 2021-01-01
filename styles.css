@@ -1,0 +1,13 @@
+th {
+    padding: 5px 5px 5px 5px;
+}
+
+td {
+    padding: 5px 5px 5px 5px;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

@@ -1,2 +1,2 @@
-# simple-sample-bank
-Simple (Rough) Bank Website concept created using Bootstrap
+# Sample Bank
+This is a small (rough) concept for a bank layout. I used this project to learn about Bootstrap.
